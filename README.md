@@ -9,11 +9,9 @@
 * PyCharm是一种文本编辑器(IDE), 在指定Python的环境下能够运行用Python语法编写的特定文本。PyCharm中的编译器不仅能够运行以`.py`文件为结尾的文件, 还支持其他语言的编译, 包括但不仅限于`.html`, `.sql`, `.scheme`, `.md`等等。(编译器是指将文件进行编译, 链接, 处理的工具)也就是说, 当我们建立新的工程后, 在工程中这些文件都是可以被文本编辑器中的编译器(Compilor)运行或理解的。总之, PyCharm是一款功能强大的IDE, 能够满足日常对Python文件的编辑需要。
 
 ### 什么是Python的环境(Environment)
-* 如下图所示, 这是在我的电脑中的Python的地址。当我们调用Python进行编译时, 实际上也是在利用`python.exe`这个可执行文件进行文本的解释或运行。
-
+* 如下图所示, 这是在我的电脑中的Python的地址。当我们调用Python进行编译时, 实际上也是在利用`python.exe`这个可执行文件进行文本的解释或运行。\
 [![Python环境地址](https://i.postimg.cc/HnSz36d6/20220914234001.jpg)](https://postimg.cc/wRmDjctN)
-如下图所示，是`python.exe`可执行文件。
-
+如下图所示，是`python.exe`可执行文件。\
 [![python.exe](https://i.postimg.cc/sgCmmGrd/20220914234504.jpg)](https://postimg.cc/3d92JRNn)
 按简单的方式理解, Python其实也是一个普通的可执行应用程序。那么, 就像一般的应用程序, python也会有不同的版本和更新。**我们所说的Python的环境就是Python的不同的版本。通过设置不同的环境， 我们可以在不同版本的Python下运行`.py`文件。**
 
@@ -72,4 +70,5 @@ if __name__ == "__main__":
 [![运行成功](https://i.postimg.cc/pLB3KgdK/20220915005519.jpg)](https://postimg.cc/Xrp2b1dv)
 ### 总结
 我们学习了什么是PyCharm, 如何建立工程(Project), 解释器(interpreter), 终端(terminal)以及编辑器(text editor)是什么, 运行环境和解释器环境有什么不同。现在, 发挥自己的创造力, 尽情编写代码吧!
-> Let the Python Magic Begin!
+> Let the Python Magic Begin!\
+[![better-debugging.png](https://i.postimg.cc/gj9SZPfy/better-debugging.png)](https://postimg.cc/k6cF0LMD)
