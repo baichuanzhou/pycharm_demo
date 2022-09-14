@@ -10,9 +10,9 @@
 
 ### 什么是Python的环境(Environment)
 * 如下图所示, 这是在我的电脑中的Python的地址。当我们调用Python进行编译时, 实际上也是在利用`python.exe`这个可执行文件进行文本的解释或运行。\
-[![Python环境地址](https://i.postimg.cc/HnSz36d6/20220914234001.jpg)](https://postimg.cc/wRmDjctN)
+[![Python环境地址](https://i.postimg.cc/HnSz36d6/20220914234001.jpg)](https://postimg.cc/wRmDjctN)\
 如下图所示，是`python.exe`可执行文件。\
-[![python.exe](https://i.postimg.cc/sgCmmGrd/20220914234504.jpg)](https://postimg.cc/3d92JRNn)
+[![python.exe](https://i.postimg.cc/sgCmmGrd/20220914234504.jpg)](https://postimg.cc/3d92JRNn)\
 按简单的方式理解, Python其实也是一个普通的可执行应用程序。那么, 就像一般的应用程序, python也会有不同的版本和更新。**我们所说的Python的环境就是Python的不同的版本。通过设置不同的环境， 我们可以在不同版本的Python下运行`.py`文件。**
 
 ### 如何建立一个新的工程(Project)
@@ -39,7 +39,7 @@
 [![20220915002703.jpg](https://i.postimg.cc/DftcY8Xg/20220915002703.jpg)](https://postimg.cc/MXmRnZtM)
 好了! 我们现在就自己建立了一个`.py`文件了!
 * 打出自己的第一行Python代码
-将以下代码复制到`test.py`文件中\
+将以下代码复制到`test.py`文件中。
 ```
 def main():
     print("Hello, Python!")
@@ -47,7 +47,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-```\
+```
 现在, 如何运行这个文件呢?
 这就是终端解释器(terminal interpreter)与编辑器(text editor)的区别了。
 ### 什么是终端(terminal), 解释器(interpreter)与编辑器(text editor)
