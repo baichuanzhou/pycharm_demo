@@ -39,7 +39,7 @@
 [![20220915002703.jpg](https://i.postimg.cc/DftcY8Xg/20220915002703.jpg)](https://postimg.cc/MXmRnZtM)
 好了! 我们现在就自己建立了一个`.py`文件了!
 * 打出自己的第一行Python代码
-将以下代码复制到`test.py`文件中
+将以下代码复制到`test.py`文件中\
 ```
 def main():
     print("Hello, Python!")
@@ -47,7 +47,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+```\
 现在, 如何运行这个文件呢?
 这就是终端解释器(terminal interpreter)与编辑器(text editor)的区别了。
 ### 什么是终端(terminal), 解释器(interpreter)与编辑器(text editor)
